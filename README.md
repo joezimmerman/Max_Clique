@@ -1,7 +1,7 @@
 # Max Clique Solver
 
 ## How to run my code:
-1. Download the sample graphs provided in the "G" folder.
+1. Download the sample graphs provided in this repo. ONLY DOWNLOAD .adjmat files. My code is not compatiable with .adjlist files.
 2. Download the MaxClique.py file.
 3. Edit the `file` variable at line 118 to point to the graph file you want to run.
 4. Run the Python file. All necessary functions are already set up and called in the code.
