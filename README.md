@@ -29,3 +29,5 @@
 - Implemented a greedy algorithm for solving the Max Clique problem. This approach prioritizes speed over accuracy, providing a fast but approximate solution.
 - Associated functions:
   - `G_max_clique(matrix)`
+ 
+Note: Generative AI was used to help create this ReadMe file. 
